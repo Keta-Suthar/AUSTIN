@@ -1,0 +1,28 @@
+#austin{
+  height:100px;
+  background-color: lightsalmon;
+  text-align: center;
+  font-size: 36px;
+  border-style:dashed;
+  padding: 20px;
+
+}
+.ausy{
+  font-family: 'Bad Script';
+  font-variant: small-caps;
+  font-weight: bold;
+  margin:10px;
+  background-color: 
+}
+
+h2{
+	background-color: cadetblue;
+	height: auto;
+  text-align: center;
+}
+div{
+	font-size: 28px;
+}
+body{
+  background-color:lightgray;
+}
