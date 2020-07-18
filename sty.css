@@ -11,8 +11,7 @@ h1,h2{
 .container{  
 	background-color: black;
 	font-variant: small-caps;
-	font-weight: bold;
-	font-family: cursive;
+	font-weight: bolder;
 }
 img{
 	border: 1px solid slateblue;
