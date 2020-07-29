@@ -27,7 +27,7 @@ a:hover, a:active {
 	background-image: url('abcd.jpeg');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	padding: 10px;
 	font-family: 'Waiting for the Sunrise';
 	font-size: 40px;
